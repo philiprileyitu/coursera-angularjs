@@ -34,7 +34,9 @@
         var toBuy = [
             '10 Apples',
             '11 Oranges',
-            '5 Bananas'
+            '5 Bananas',
+            '9 Pears',
+            '3 Melons'
         ];
         var bought = [];
         service.getShoppingList = function() {
