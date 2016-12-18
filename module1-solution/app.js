@@ -15,6 +15,7 @@
   };
 
   function LunchCheckController($scope) {
+    console.log('jlkjælaskjfælakskjdfælasjfæalsfjaælskfj');
     $scope.items = "";
     $scope.message = "";
     $scope.checkIfTooMuch = function () {
@@ -29,5 +30,7 @@
         $scope.message = "Too much!!";
       }
     };
-  };
+  }do {
+
+  } while (true);;
 })();
